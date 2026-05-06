@@ -1,8 +1,8 @@
 # Lethal Company Mods
 
 ## Liminal Pools
-https://thunderstore.io/c/lethal-company/p/theMenagerie/LiminalPools/  
-https://github.com/Drako1245/LiminalPoolRoomsLC#images  
+Mod Link: https://thunderstore.io/c/lethal-company/p/theMenagerie/LiminalPools/  
+Mod GitHub: https://github.com/Drako1245/LiminalPoolRoomsLC#images  
 
 # Images
 ![](https://i.imgur.com/IIAOKG4.png)
